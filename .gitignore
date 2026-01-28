@@ -1,0 +1,8 @@
+venv/
+data/
+*.csv
+*.joblib
+*.pkl
+__pycache__/
+.env
+.vscode/
